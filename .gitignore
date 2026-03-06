@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+
+# local caches
+.vscode/settings.json
+
+# large/generated data
+data/raw/
+data/processed/
+viz/graph_data.json
+viz/*.html
+screenshots/*.tmp

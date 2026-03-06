@@ -487,3 +487,14 @@ data/processed/claims_merged.jsonl
 data/processed/current_state.jsonl
 viz/issue_graph.html          # interactive visualization
 ```
+# System Demonstration
+
+![Pipeline Running](images/pipeline_running.png)
+
+![Claims Extracted](images/claims_extracted.png)
+
+![Graph Visualization](images/graph_visualization.png)
+
+![Evidence](images/evidence.png)
+
+![Graph](images/graph.png)

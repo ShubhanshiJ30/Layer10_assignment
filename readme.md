@@ -489,12 +489,17 @@ viz/issue_graph.html          # interactive visualization
 ```
 # System Demonstration
 
+
 ![Pipeline Running](images/pipeline_running.png)
+
 
 ![Claims Extracted](images/claims_extracted.png)
 
-![Graph Visualization](images/graph_visualization.png)
+
+![Graph Visualization](images/graph_visualisation.png)
+
 
 ![Evidence](images/evidence.png)
+
 
 ![Graph](images/graph.png)
